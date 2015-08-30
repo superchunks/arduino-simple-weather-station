@@ -15,7 +15,7 @@ Changed the error code to “looking”
 
 Added a five second delay as the humidity reading was flickering on the display
 
-Added the F as described in the comments – see bottom of post
+Added the F as described in the comments
 
 
 
